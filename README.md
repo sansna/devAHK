@@ -1,7 +1,7 @@
 # devAHK
 This repo stores some sample snippets used frequently in [AHK](http://www.ahkscript.org/).
 >
-Check this file and write functions, passing vars easily.
+Check these files and write functions, passing vars easily.
 >
 It seems that AHK can be used as notepad's fast AHK completer? (Check sleep.ahk to see more.. )
 >
