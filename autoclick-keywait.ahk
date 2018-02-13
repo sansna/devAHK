@@ -1,4 +1,6 @@
 ; Start by pressing F2, stop by pressing either F3 or F4
+F4::
+ExitApp
 F2::
 Loop
 {
@@ -7,5 +9,3 @@ Loop
 	If ErrorLevel != 1
 		break
 }
-F4::
-ExitApp
